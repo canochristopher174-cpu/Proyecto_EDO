@@ -1,0 +1,21 @@
+Referencia APA 7
+
+OpenAI. (2026). ChatGPT (modelo GPT-5.5) [Modelo de lenguaje de gran
+escala]. https://chatgpt.com
+
+Nota sobre el uso de inteligencia artificial
+
+Durante el desarrollo de este proyecto se utilizó ChatGPT (OpenAI, 2026)
+como herramienta de apoyo para programación y aprendizaje. Su uso
+incluyó:
+
+-   Generación de código base para distintas funcionalidades del
+    proyecto.
+-   Identificación y corrección de errores de implementación.
+-   Asistencia en el aprendizaje y comprensión de conceptos de
+    JavaScript (.js).
+-   Asistencia en el aprendizaje y comprensión de conceptos de Python
+    (.py).
+
+Todas las decisiones de diseño, implementación, validación y
+documentación fueron verificadas por los autores del proyecto.
